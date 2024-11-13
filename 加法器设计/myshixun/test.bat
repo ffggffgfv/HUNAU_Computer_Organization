@@ -1,0 +1,1 @@
+java -jar logisim.jar -tty table %1 %2 %3
